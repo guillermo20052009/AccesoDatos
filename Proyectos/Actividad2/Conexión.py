@@ -20,7 +20,7 @@ try:
     color varchar(20) NOT NULL,
     PRIMARY KEY (id)
     )""")
-        cursor.execute("""INSERT INTO coches VALUES(3,"Mercede","Clase A",2013,20000.10,"Blanco");
+        cursor.execute("""INSERT INTO coches (marca, modelo, año, precio, color) VALUES ("Mercede", "Clase A", 2013, 20000.10, "Blanco");
 """)
         conexion.commit()
         cursor.execute("""Select * FROM coches""")
