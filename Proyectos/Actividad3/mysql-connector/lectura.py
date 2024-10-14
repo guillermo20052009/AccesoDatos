@@ -9,13 +9,11 @@ try:
 )
 
     with conexion.cursor() as cursor:
-        
-      
-        
         start_time = time.time()
         for i in range(10000):
             cursor.execute(f"""Select * from coches;
             """)
+            cursor.fetchall()
                 
         end_time = time.time()
         print(f"Tiempo de Lectura con MySQL-connector: {end_time - start_time} segundos")
