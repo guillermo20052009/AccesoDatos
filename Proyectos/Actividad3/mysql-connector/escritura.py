@@ -27,7 +27,12 @@ try:
             """)
                 
         end_time = time.time()
-        print(f"Tiempo de Lectura con MySQL-connector: {end_time - start_time} segundos")
-        
+        print(f"Tiempo de escritura con MySQL-connector: {end_time - start_time} segundos")
+        conexion.commit()
 except mysql.connector.Error as e:
     print(f'El error es{e}')
+    
+finally:
+    if conexion:
+        conexion.close()
+        print("Conexión cerrada")

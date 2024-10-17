@@ -34,5 +34,10 @@ try:
                 
         end_time = time.time()
         print(f"Tiempo de inserción con PyMySQL: {end_time - start_time} segundos")
+        conexion.commit()
 except MySQLError as e:
     print(f'El error es{e}')
+finally:
+    if conexion:
+        conexion.close()
+        print("La conexion se ha cerrado")

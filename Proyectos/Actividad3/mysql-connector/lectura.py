@@ -10,9 +10,8 @@ try:
 
     with conexion.cursor() as cursor:
         start_time = time.time()
-        for i in range(10000):
-            cursor.execute(f"""Select * from coches;
-            """)
+        for i in range(3):
+            cursor.execute("""Select * from coches;""")
             cursor.fetchall()
                 
         end_time = time.time()
@@ -20,3 +19,7 @@ try:
         
 except mysql.connector.Error as e:
     print(f'El error es{e}')
+finally:
+    if conexion:
+        conexion.close()
+        print("Conexión cerrada")

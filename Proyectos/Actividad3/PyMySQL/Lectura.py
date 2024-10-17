@@ -15,10 +15,15 @@ try:
     with conexion.cursor() as cursor:
         
         start_time = time.time()
-        for i in range(10000):
+        for i in range(3):
             cursor.execute("""Select * FROM coches;""")
+            
                 
         end_time = time.time()
         print(f"Tiempo de Lectura con PyMySQL: {end_time - start_time} segundos")
 except MySQLError as e:
     print(f'El error es{e}')
+finally:
+    if conexion:
+        conexion.close()
+        print("La conexion se ha cerrado")
