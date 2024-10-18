@@ -13,7 +13,7 @@ try:
     # Usando un cursor para ejecutar consultas SQL
     with conexion.cursor() as cursor:
         # Llamar al procedimiento almacenado 'obtener_datosPython' con el parámetro 5
-        cursor.callproc('obtener_datosPython', [5])
+        cursor.callproc('obtener_datos_Python2', [5])
         
         # Iterar sobre los resultados devueltos por el procedimiento almacenado
         for resultado in cursor.stored_results():
@@ -22,3 +22,7 @@ try:
 # Manejo de errores relacionados con MySQL
 except mysql.connector.Error as e:
     print(f'El error es {e}')  # Mostrar mensaje de error
+finally:
+    if conexion:
+        conexion.close()
+        print("Conexión cerrada")
