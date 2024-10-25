@@ -1,4 +1,4 @@
-from peewee import MySQLDatabase,CharField,IntegerField,Model,PrimaryKeyField,FloatField
+from peewee import MySQLDatabase,CharField,IntegerField,Model,PrimaryKeyField,FloatField, IntegrityError
 
 # Configuración de la base de datos
 db = MySQLDatabase(
@@ -52,8 +52,12 @@ def crear_tabla():
 # Función para insertar datos en la tabla
 # Inserta un nuevo coche en la tabla con los valores proporcionados
 def insertar_coche(marca1, modelo1, año1, precio1, color1, motor1):
-    Coche.create(marca=marca1, modelo=modelo1, año=año1, precio=precio1, color=color1, id_motor=motor1)  # Inserta una nueva fila
-    print("Coche insertado con éxito")
+    try:
+        with db.atomic():
+            Coche.create(marca=marca1, modelo=modelo1, año=año1, precio=precio1, color=color1, id_motor=motor1)  # Inserta una nueva fila
+            print("Coche insertado con éxito y transaccion cerrada con exito")
+    except IntegrityError as e:
+        print(f"Error al insertar herramientas: {e}") 
 
 # Eliminar la tabla
 eliminar_tabla()
