@@ -2,7 +2,7 @@ from peewee import MySQLDatabase,CharField,IntegerField,Model,PrimaryKeyField,Fl
 
 # Configuración de la base de datos
 db = MySQLDatabase(
-    'Guillermo1DAM',  # Nombre de la base de datos
+    '1dam',  # Nombre de la base de datos
     user='usuario',  # Nombre de usuario para la base de datos
     password='usuario',  # Contraseña del usuario
     host='localhost',  # Servidor de la base de datos
