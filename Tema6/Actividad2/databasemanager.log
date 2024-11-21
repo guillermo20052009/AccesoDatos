@@ -1,0 +1,21 @@
+2024-11-21 09:48:28,731 - ERROR - Error al conectar a la base de datos: Authentication plugin 'caching_sha2_password' is not supported
+2024-11-21 09:53:32,883 - ERROR - Error al conectar a la base de datos: Authentication plugin 'caching_sha2_password' is not supported
+2024-11-21 09:54:17,421 - INFO - Conexión exitosa a la base de datos.
+2024-11-21 09:54:17,422 - ERROR - Error al insertar el coche 'Corolla': 1146 (42S02): Table '1dam.Coches' doesn't exist
+2024-11-21 09:54:17,423 - ERROR - Error al leer los coches: 1146 (42S02): Table '1dam.Coches' doesn't exist
+2024-11-21 09:54:17,423 - ERROR - Error al actualizar el coche con ID 1: 1146 (42S02): Table '1dam.Coches' doesn't exist
+2024-11-21 09:54:17,423 - ERROR - Error al eliminar el coche con ID 1: 1146 (42S02): Table '1dam.Coches' doesn't exist
+2024-11-21 09:54:17,423 - INFO - Transacción iniciada.
+2024-11-21 09:54:17,424 - ERROR - Error al insertar el coche 'Civic': 1146 (42S02): Table '1dam.Coches' doesn't exist
+2024-11-21 09:54:17,424 - INFO - Transacción revertida.
+2024-11-21 09:54:17,424 - INFO - Conexión cerrada.
+2024-11-21 09:58:40,939 - INFO - Conexión exitosa a la base de datos.
+2024-11-21 09:58:40,940 - INFO - Coche 'Corolla' insertado exitosamente.
+2024-11-21 09:58:40,941 - INFO - Coches recuperados:
+2024-11-21 09:58:40,941 - INFO - {'id': 1, 'marca': 'Toyota', 'modelo': 'Corolla', 'año': 2020, 'color': 'Blanco', 'tipo': 'Sedán'}
+2024-11-21 09:58:40,948 - INFO - Coche con ID 1 actualizado exitosamente.
+2024-11-21 09:58:40,954 - INFO - Coche con ID 1 eliminado exitosamente.
+2024-11-21 09:58:40,955 - INFO - Transacción iniciada.
+2024-11-21 09:58:40,955 - INFO - Coche 'Civic' insertado exitosamente.
+2024-11-21 09:58:40,959 - INFO - Transacción revertida.
+2024-11-21 09:58:40,959 - INFO - Conexión cerrada.
