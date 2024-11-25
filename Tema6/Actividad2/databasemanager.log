@@ -19,3 +19,13 @@
 2024-11-21 09:58:40,955 - INFO - Coche 'Civic' insertado exitosamente.
 2024-11-21 09:58:40,959 - INFO - Transacción revertida.
 2024-11-21 09:58:40,959 - INFO - Conexión cerrada.
+2024-11-25 12:38:26,707 - INFO - Conexión exitosa a la base de datos.
+2024-11-25 12:38:26,864 - INFO - Coche 'Corolla' insertado exitosamente.
+2024-11-25 12:38:26,867 - INFO - Coches recuperados:
+2024-11-25 12:38:26,867 - INFO - {'id': 3, 'marca': 'Toyota', 'modelo': 'Corolla', 'año': 2020, 'color': 'Blanco', 'tipo': 'Sedán'}
+2024-11-25 12:38:26,892 - INFO - Coche con ID 1 actualizado exitosamente.
+2024-11-25 12:38:26,893 - INFO - Coche con ID 1 eliminado exitosamente.
+2024-11-25 12:38:26,893 - INFO - Transacción iniciada.
+2024-11-25 12:38:26,898 - INFO - Coche 'Civic' insertado exitosamente.
+2024-11-25 12:38:26,909 - INFO - Transacción revertida.
+2024-11-25 12:38:26,910 - INFO - Conexión cerrada.

@@ -44,10 +44,9 @@ class DataManager:
                 json.dump(self.datos, archivo, indent=4)
         elif self.tipo_archivo == 'csv' and self.datos:
             with open(self.ruta_archivo, mode='w', newline='') as archivo:
-                print(self.datos.keys())
-                escritor = csv.DictWriter(archivo, fieldnames=self.datos[0].keys())
+                escritor = csv.DictWriter(archivo, fieldnames=self.datos.keys())
                 escritor.writeheader()
-                escritor.writerows(self.datos)
+                escritor.writerow(self.datos)
         logging.info(f"Archivo {self.tipo_archivo.upper()} guardado. Versión actual: {self.version}")
 
     def iniciar_transaccion(self):
@@ -80,7 +79,7 @@ class DataManager:
     def escribir_dato(self, nuevo_dato):
         if not self.transaccion_activa:
             raise Exception("Debe iniciar una transacción antes de realizar cambios.")
-        self.datos.append(nuevo_dato)
+        self.datos=nuevo_dato
         logging.info(f"Dato agregado: {nuevo_dato}")
 
     def eliminar_dato(self, clave, valor):
@@ -124,9 +123,9 @@ coches = [{
 
 data_manager=DataManager("coches.json")
 data_manager.iniciar_transaccion()
-data_manager.escribir_dato(coches)
+data_manager.escribir_dato(coches[0])
 data_manager.confirmar_transaccion()
 data_manager.actualizar_configuracion("nuevo.csv","csv")
 data_manager.iniciar_transaccion()
-data_manager.escribir_dato(coches[0])
+data_manager.escribir_dato(coches[1])
 data_manager.confirmar_transaccion()

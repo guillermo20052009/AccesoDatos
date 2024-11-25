@@ -102,3 +102,153 @@
 2024-11-18 14:31:50,400 - INFO - Configuración actualizada. Nueva ruta del archivo: nuevo.csv
 2024-11-18 14:31:50,400 - INFO - Transacción iniciada.
 2024-11-18 14:31:50,400 - INFO - Dato agregado: {'marca': 'peugeot', 'modelo': 2008, 'Año': 2018}
+2024-11-25 12:39:24,973 - INFO - Archivo JSON cargado con éxito. Versión actual: 1
+2024-11-25 12:39:24,974 - INFO - Transacción iniciada.
+2024-11-25 12:39:24,974 - INFO - Dato agregado: [{'marca': 'peugeot', 'modelo': 2008, 'Año': 2018}, {'marca': 'toyota', 'modelo': 'corolla', 'Año': 2018}, {'marca': 'BMW', 'modelo': 'e36', 'Año': 2018}]
+2024-11-25 12:39:24,974 - INFO - Archivo JSON guardado. Versión actual: 2
+2024-11-25 12:39:24,974 - INFO - Transacción confirmada y cambios guardados.
+2024-11-25 12:39:24,974 - INFO - Configuración actualizada. Nueva ruta del archivo: nuevo.csv
+2024-11-25 12:39:24,975 - INFO - Transacción iniciada.
+2024-11-25 12:39:24,975 - INFO - Dato agregado: {'marca': 'peugeot', 'modelo': 2008, 'Año': 2018}
+2024-11-25 12:42:40,560 - INFO - Archivo JSON cargado con éxito. Versión actual: 1
+2024-11-25 12:42:40,560 - INFO - Transacción iniciada.
+2024-11-25 12:42:40,560 - INFO - Dato agregado: [{'marca': 'peugeot', 'modelo': 2008, 'Año': 2018}, {'marca': 'toyota', 'modelo': 'corolla', 'Año': 2018}, {'marca': 'BMW', 'modelo': 'e36', 'Año': 2018}]
+2024-11-25 12:42:40,560 - INFO - Archivo JSON guardado. Versión actual: 2
+2024-11-25 12:42:40,560 - INFO - Transacción confirmada y cambios guardados.
+2024-11-25 12:42:40,560 - INFO - Configuración actualizada. Nueva ruta del archivo: nuevo.csv
+2024-11-25 12:42:40,560 - INFO - Transacción iniciada.
+2024-11-25 12:42:40,560 - INFO - Dato agregado: [{'marca': 'peugeot', 'modelo': 2008, 'Año': 2018}, {'marca': 'toyota', 'modelo': 'corolla', 'Año': 2018}, {'marca': 'BMW', 'modelo': 'e36', 'Año': 2018}]
+2024-11-25 12:43:12,975 - INFO - Archivo JSON cargado con éxito. Versión actual: 1
+2024-11-25 12:43:12,975 - INFO - Transacción iniciada.
+2024-11-25 12:43:12,975 - INFO - Dato agregado: [{'marca': 'peugeot', 'modelo': 2008, 'Año': 2018}, {'marca': 'toyota', 'modelo': 'corolla', 'Año': 2018}, {'marca': 'BMW', 'modelo': 'e36', 'Año': 2018}]
+2024-11-25 12:43:12,976 - INFO - Archivo JSON guardado. Versión actual: 2
+2024-11-25 12:43:12,976 - INFO - Transacción confirmada y cambios guardados.
+2024-11-25 12:43:12,976 - INFO - Configuración actualizada. Nueva ruta del archivo: nuevo.csv
+2024-11-25 12:43:12,976 - INFO - Transacción iniciada.
+2024-11-25 12:43:12,976 - INFO - Dato agregado: [{'marca': 'peugeot', 'modelo': 2008, 'Año': 2018}, {'marca': 'toyota', 'modelo': 'corolla', 'Año': 2018}, {'marca': 'BMW', 'modelo': 'e36', 'Año': 2018}]
+2024-11-25 12:43:33,551 - INFO - Archivo JSON cargado con éxito. Versión actual: 1
+2024-11-25 12:43:33,551 - INFO - Transacción iniciada.
+2024-11-25 12:43:33,551 - INFO - Dato agregado: [{'marca': 'peugeot', 'modelo': 2008, 'Año': 2018}, {'marca': 'toyota', 'modelo': 'corolla', 'Año': 2018}, {'marca': 'BMW', 'modelo': 'e36', 'Año': 2018}]
+2024-11-25 12:43:33,551 - INFO - Archivo JSON guardado. Versión actual: 2
+2024-11-25 12:43:33,551 - INFO - Transacción confirmada y cambios guardados.
+2024-11-25 12:43:33,551 - INFO - Configuración actualizada. Nueva ruta del archivo: nuevo.csv
+2024-11-25 12:43:33,551 - INFO - Transacción iniciada.
+2024-11-25 12:43:33,551 - INFO - Dato agregado: [{'marca': 'peugeot', 'modelo': 2008, 'Año': 2018}, {'marca': 'toyota', 'modelo': 'corolla', 'Año': 2018}, {'marca': 'BMW', 'modelo': 'e36', 'Año': 2018}]
+2024-11-25 12:43:44,560 - INFO - Archivo JSON cargado con éxito. Versión actual: 1
+2024-11-25 12:43:44,560 - INFO - Transacción iniciada.
+2024-11-25 12:43:44,560 - INFO - Dato agregado: [{'marca': 'peugeot', 'modelo': 2008, 'Año': 2018}, {'marca': 'toyota', 'modelo': 'corolla', 'Año': 2018}, {'marca': 'BMW', 'modelo': 'e36', 'Año': 2018}]
+2024-11-25 12:43:44,561 - INFO - Archivo JSON guardado. Versión actual: 2
+2024-11-25 12:43:44,561 - INFO - Transacción confirmada y cambios guardados.
+2024-11-25 12:43:44,561 - INFO - Configuración actualizada. Nueva ruta del archivo: nuevo.csv
+2024-11-25 12:43:44,561 - INFO - Transacción iniciada.
+2024-11-25 12:43:44,561 - INFO - Dato agregado: [{'marca': 'peugeot', 'modelo': 2008, 'Año': 2018}, {'marca': 'toyota', 'modelo': 'corolla', 'Año': 2018}, {'marca': 'BMW', 'modelo': 'e36', 'Año': 2018}]
+2024-11-25 12:43:59,791 - INFO - Archivo JSON cargado con éxito. Versión actual: 1
+2024-11-25 12:43:59,791 - INFO - Transacción iniciada.
+2024-11-25 12:43:59,791 - INFO - Dato agregado: [{'marca': 'peugeot', 'modelo': 2008, 'Año': 2018}, {'marca': 'toyota', 'modelo': 'corolla', 'Año': 2018}, {'marca': 'BMW', 'modelo': 'e36', 'Año': 2018}]
+2024-11-25 12:43:59,791 - INFO - Archivo JSON guardado. Versión actual: 2
+2024-11-25 12:43:59,791 - INFO - Transacción confirmada y cambios guardados.
+2024-11-25 12:43:59,791 - INFO - Configuración actualizada. Nueva ruta del archivo: nuevo.csv
+2024-11-25 12:43:59,792 - INFO - Transacción iniciada.
+2024-11-25 12:43:59,792 - INFO - Dato agregado: [{'marca': 'peugeot', 'modelo': 2008, 'Año': 2018}, {'marca': 'toyota', 'modelo': 'corolla', 'Año': 2018}, {'marca': 'BMW', 'modelo': 'e36', 'Año': 2018}]
+2024-11-25 12:44:42,007 - INFO - Archivo JSON cargado con éxito. Versión actual: 1
+2024-11-25 12:44:42,007 - INFO - Transacción iniciada.
+2024-11-25 12:44:42,007 - INFO - Dato agregado: [{'marca': 'peugeot', 'modelo': 2008, 'Año': 2018}, {'marca': 'toyota', 'modelo': 'corolla', 'Año': 2018}, {'marca': 'BMW', 'modelo': 'e36', 'Año': 2018}]
+2024-11-25 12:44:42,007 - INFO - Archivo JSON guardado. Versión actual: 2
+2024-11-25 12:44:42,007 - INFO - Transacción confirmada y cambios guardados.
+2024-11-25 12:44:42,007 - INFO - Configuración actualizada. Nueva ruta del archivo: nuevo.csv
+2024-11-25 12:44:42,008 - INFO - Transacción iniciada.
+2024-11-25 12:44:42,008 - INFO - Dato agregado: {'marca': 'peugeot', 'modelo': 2008, 'Año': 2018}
+2024-11-25 12:44:50,868 - INFO - Archivo JSON cargado con éxito. Versión actual: 1
+2024-11-25 12:44:50,868 - INFO - Transacción iniciada.
+2024-11-25 12:44:50,868 - INFO - Dato agregado: {'marca': 'peugeot', 'modelo': 2008, 'Año': 2018}
+2024-11-25 12:44:50,869 - INFO - Archivo JSON guardado. Versión actual: 2
+2024-11-25 12:44:50,869 - INFO - Transacción confirmada y cambios guardados.
+2024-11-25 12:44:50,869 - INFO - Configuración actualizada. Nueva ruta del archivo: nuevo.csv
+2024-11-25 12:44:50,869 - INFO - Transacción iniciada.
+2024-11-25 12:44:50,869 - INFO - Dato agregado: {'marca': 'peugeot', 'modelo': 2008, 'Año': 2018}
+2024-11-25 12:44:52,458 - INFO - Archivo JSON cargado con éxito. Versión actual: 1
+2024-11-25 12:44:52,458 - INFO - Transacción iniciada.
+2024-11-25 12:44:52,458 - INFO - Dato agregado: {'marca': 'peugeot', 'modelo': 2008, 'Año': 2018}
+2024-11-25 12:44:52,459 - INFO - Archivo JSON guardado. Versión actual: 2
+2024-11-25 12:44:52,459 - INFO - Transacción confirmada y cambios guardados.
+2024-11-25 12:44:52,459 - INFO - Configuración actualizada. Nueva ruta del archivo: nuevo.csv
+2024-11-25 12:44:52,459 - INFO - Transacción iniciada.
+2024-11-25 12:44:52,459 - INFO - Dato agregado: {'marca': 'peugeot', 'modelo': 2008, 'Año': 2018}
+2024-11-25 12:53:51,958 - INFO - Archivo JSON cargado con éxito. Versión actual: 1
+2024-11-25 12:53:51,959 - INFO - Transacción iniciada.
+2024-11-25 12:53:51,959 - INFO - Dato agregado: [{'marca': 'peugeot', 'modelo': 2008, 'Año': 2018}, {'marca': 'toyota', 'modelo': 'corolla', 'Año': 2018}, {'marca': 'BMW', 'modelo': 'e36', 'Año': 2018}]
+2024-11-25 12:53:51,959 - INFO - Archivo JSON guardado. Versión actual: 2
+2024-11-25 12:53:51,959 - INFO - Transacción confirmada y cambios guardados.
+2024-11-25 12:53:51,959 - INFO - Configuración actualizada. Nueva ruta del archivo: nuevo.csv
+2024-11-25 12:53:51,959 - INFO - Transacción iniciada.
+2024-11-25 12:53:51,959 - INFO - Dato agregado: {'marca': 'peugeot', 'modelo': 2008, 'Año': 2018}
+2024-11-25 12:57:04,329 - INFO - Archivo JSON cargado con éxito. Versión actual: 1
+2024-11-25 12:57:04,329 - INFO - Transacción iniciada.
+2024-11-25 12:57:04,330 - INFO - Dato agregado: [{'marca': 'peugeot', 'modelo': 2008, 'Año': 2018}, {'marca': 'toyota', 'modelo': 'corolla', 'Año': 2018}, {'marca': 'BMW', 'modelo': 'e36', 'Año': 2018}]
+2024-11-25 12:57:04,330 - INFO - Archivo JSON guardado. Versión actual: 2
+2024-11-25 12:57:04,330 - INFO - Transacción confirmada y cambios guardados.
+2024-11-25 12:57:04,330 - INFO - Configuración actualizada. Nueva ruta del archivo: nuevo.csv
+2024-11-25 12:57:04,330 - INFO - Transacción iniciada.
+2024-11-25 12:57:04,330 - INFO - Dato agregado: {'marca': 'peugeot', 'modelo': 2008, 'Año': 2018}
+2024-11-25 12:57:26,963 - INFO - Archivo JSON cargado con éxito. Versión actual: 1
+2024-11-25 12:57:26,963 - INFO - Transacción iniciada.
+2024-11-25 12:57:26,964 - INFO - Dato agregado: [{'marca': 'peugeot', 'modelo': 2008, 'Año': 2018}, {'marca': 'toyota', 'modelo': 'corolla', 'Año': 2018}, {'marca': 'BMW', 'modelo': 'e36', 'Año': 2018}]
+2024-11-25 12:57:26,964 - INFO - Archivo JSON guardado. Versión actual: 2
+2024-11-25 12:57:26,964 - INFO - Transacción confirmada y cambios guardados.
+2024-11-25 12:57:26,964 - INFO - Configuración actualizada. Nueva ruta del archivo: nuevo.csv
+2024-11-25 12:57:26,964 - INFO - Transacción iniciada.
+2024-11-25 12:57:26,964 - INFO - Dato agregado: {'marca': 'peugeot', 'modelo': 2008, 'Año': 2018}
+2024-11-25 12:57:47,276 - INFO - Archivo JSON cargado con éxito. Versión actual: 1
+2024-11-25 12:57:47,276 - INFO - Transacción iniciada.
+2024-11-25 12:57:47,276 - INFO - Dato agregado: {'marca': 'peugeot', 'modelo': 2008, 'Año': 2018}
+2024-11-25 12:57:47,276 - INFO - Archivo JSON guardado. Versión actual: 2
+2024-11-25 12:57:47,276 - INFO - Transacción confirmada y cambios guardados.
+2024-11-25 12:57:47,276 - INFO - Configuración actualizada. Nueva ruta del archivo: nuevo.csv
+2024-11-25 12:57:47,276 - INFO - Transacción iniciada.
+2024-11-25 12:57:47,276 - INFO - Dato agregado: {'marca': 'peugeot', 'modelo': 2008, 'Año': 2018}
+2024-11-25 13:12:44,537 - INFO - Archivo JSON cargado con éxito. Versión actual: 1
+2024-11-25 13:12:44,537 - INFO - Transacción iniciada.
+2024-11-25 13:12:44,537 - INFO - Dato agregado: {'marca': 'peugeot', 'modelo': 2008, 'Año': 2018}
+2024-11-25 13:12:44,537 - INFO - Archivo JSON guardado. Versión actual: 2
+2024-11-25 13:12:44,537 - INFO - Transacción confirmada y cambios guardados.
+2024-11-25 13:12:44,537 - INFO - Configuración actualizada. Nueva ruta del archivo: nuevo.csv
+2024-11-25 13:12:44,537 - INFO - Transacción iniciada.
+2024-11-25 13:12:44,537 - INFO - Dato agregado: {'marca': 'peugeot', 'modelo': 2008, 'Año': 2018}
+2024-11-25 13:15:15,022 - INFO - Archivo JSON cargado con éxito. Versión actual: 1
+2024-11-25 13:15:15,023 - INFO - Transacción iniciada.
+2024-11-25 13:15:15,023 - INFO - Dato agregado: {'marca': 'peugeot', 'modelo': 2008, 'Año': 2018}
+2024-11-25 13:15:15,023 - INFO - Archivo JSON guardado. Versión actual: 2
+2024-11-25 13:15:15,023 - INFO - Transacción confirmada y cambios guardados.
+2024-11-25 13:15:15,023 - INFO - Configuración actualizada. Nueva ruta del archivo: nuevo.csv
+2024-11-25 13:15:15,023 - INFO - Transacción iniciada.
+2024-11-25 13:15:15,023 - INFO - Dato agregado: {'marca': 'peugeot', 'modelo': 2008, 'Año': 2018}
+2024-11-25 13:15:15,023 - INFO - Archivo CSV guardado. Versión actual: 3
+2024-11-25 13:15:15,023 - INFO - Transacción confirmada y cambios guardados.
+2024-11-25 13:16:53,048 - INFO - Archivo JSON cargado con éxito. Versión actual: 1
+2024-11-25 13:16:53,048 - INFO - Transacción iniciada.
+2024-11-25 13:16:53,048 - INFO - Dato agregado: {'marca': 'peugeot', 'modelo': 2008, 'Año': 2018}
+2024-11-25 13:16:53,049 - INFO - Archivo JSON guardado. Versión actual: 2
+2024-11-25 13:16:53,049 - INFO - Transacción confirmada y cambios guardados.
+2024-11-25 13:16:53,049 - INFO - Configuración actualizada. Nueva ruta del archivo: nuevo.csv
+2024-11-25 13:16:53,049 - INFO - Transacción iniciada.
+2024-11-25 13:16:53,049 - INFO - Dato agregado: {'marca': 'peugeot', 'modelo': 2008, 'Año': 2018}
+2024-11-25 13:17:04,995 - INFO - Archivo JSON cargado con éxito. Versión actual: 1
+2024-11-25 13:17:04,995 - INFO - Transacción iniciada.
+2024-11-25 13:17:04,995 - INFO - Dato agregado: {'marca': 'peugeot', 'modelo': 2008, 'Año': 2018}
+2024-11-25 13:17:04,996 - INFO - Archivo JSON guardado. Versión actual: 2
+2024-11-25 13:17:04,996 - INFO - Transacción confirmada y cambios guardados.
+2024-11-25 13:17:04,996 - INFO - Configuración actualizada. Nueva ruta del archivo: nuevo.csv
+2024-11-25 13:17:04,996 - INFO - Transacción iniciada.
+2024-11-25 13:17:04,996 - INFO - Dato agregado: {'marca': 'peugeot', 'modelo': 2008, 'Año': 2018}
+2024-11-25 13:17:04,996 - INFO - Archivo CSV guardado. Versión actual: 3
+2024-11-25 13:17:04,996 - INFO - Transacción confirmada y cambios guardados.
+2024-11-25 13:27:45,462 - INFO - Archivo JSON cargado con éxito. Versión actual: 1
+2024-11-25 13:27:45,462 - INFO - Transacción iniciada.
+2024-11-25 13:27:45,462 - INFO - Dato agregado: {'marca': 'peugeot', 'modelo': 2008, 'Año': 2018}
+2024-11-25 13:27:45,462 - INFO - Archivo JSON guardado. Versión actual: 2
+2024-11-25 13:27:45,462 - INFO - Transacción confirmada y cambios guardados.
+2024-11-25 13:27:45,462 - INFO - Configuración actualizada. Nueva ruta del archivo: nuevo.csv
+2024-11-25 13:27:45,462 - INFO - Transacción iniciada.
+2024-11-25 13:27:45,462 - INFO - Dato agregado: {'marca': 'toyota', 'modelo': 'corolla', 'Año': 2018}
+2024-11-25 13:27:45,462 - INFO - Archivo CSV guardado. Versión actual: 3
+2024-11-25 13:27:45,463 - INFO - Transacción confirmada y cambios guardados.
