@@ -1,0 +1,28 @@
+2024-12-05 10:14:12,746 - INFO - Conexión establecida con ZODB.
+2024-12-05 10:14:12,746 - INFO - Transacción iniciada.
+2024-12-05 10:14:12,746 - INFO - Coche con ID 1 creado exitosamente.
+2024-12-05 10:14:12,746 - INFO - Coche con ID 2 creado exitosamente.
+2024-12-05 10:14:12,746 - INFO - Coche con ID 3 creado exitosamente.
+2024-12-05 10:14:12,746 - INFO - Transacción confirmada.
+2024-12-05 10:14:12,746 - INFO - ID: 1, Modelo: Modelo S, Marca: Tesla, Año: 2020, Color: Rojo, Tipo: Eléctrico
+2024-12-05 10:14:12,746 - INFO - ID: 2, Modelo: Civic, Marca: Honda, Año: 2019, Color: Azul, Tipo: Sedán
+2024-12-05 10:14:12,746 - INFO - ID: 3, Modelo: Mustang, Marca: Ford, Año: 2022, Color: Negro, Tipo: Deportivo
+2024-12-05 10:14:12,746 - INFO - Transacción iniciada.
+2024-12-05 10:14:12,746 - INFO - Transacción revertida.
+2024-12-05 10:14:12,746 - ERROR - Error al crear el coche con ID 1: Ya existe un coche con ID 1.
+2024-12-05 10:14:12,746 - INFO - ID: 1, Modelo: Modelo S, Marca: Tesla, Año: 2020, Color: Rojo, Tipo: Eléctrico
+2024-12-05 10:14:12,746 - INFO - ID: 2, Modelo: Civic, Marca: Honda, Año: 2019, Color: Azul, Tipo: Sedán
+2024-12-05 10:14:12,746 - INFO - ID: 3, Modelo: Mustang, Marca: Ford, Año: 2022, Color: Negro, Tipo: Deportivo
+2024-12-05 10:14:12,746 - INFO - Transacción iniciada.
+2024-12-05 10:14:12,746 - INFO - Coche con ID 2 actualizado exitosamente.
+2024-12-05 10:14:12,746 - INFO - Transacción confirmada.
+2024-12-05 10:14:12,746 - INFO - ID: 1, Modelo: Modelo S, Marca: Tesla, Año: 2020, Color: Rojo, Tipo: Eléctrico
+2024-12-05 10:14:12,746 - INFO - ID: 2, Modelo: Civic, Marca: Honda, Año: 2020, Color: Azul, Tipo: Híbrido
+2024-12-05 10:14:12,746 - INFO - ID: 3, Modelo: Mustang, Marca: Ford, Año: 2022, Color: Negro, Tipo: Deportivo
+2024-12-05 10:14:12,746 - INFO - Transacción iniciada.
+2024-12-05 10:14:12,746 - INFO - Transacción revertida.
+2024-12-05 10:14:12,746 - ERROR - Error al eliminar el coche con ID 10: No existe un coche con ID 10.
+2024-12-05 10:14:12,746 - INFO - ID: 1, Modelo: Modelo S, Marca: Tesla, Año: 2020, Color: Rojo, Tipo: Eléctrico
+2024-12-05 10:14:12,746 - INFO - ID: 2, Modelo: Civic, Marca: Honda, Año: 2020, Color: Azul, Tipo: Híbrido
+2024-12-05 10:14:12,746 - INFO - ID: 3, Modelo: Mustang, Marca: Ford, Año: 2022, Color: Negro, Tipo: Deportivo
+2024-12-05 10:14:12,747 - INFO - Conexión a ZODB cerrada.

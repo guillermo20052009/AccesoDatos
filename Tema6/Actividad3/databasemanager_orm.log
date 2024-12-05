@@ -1,0 +1,12 @@
+2024-12-05 09:57:07,335 - INFO - Conexión establecida y tablas creadas.
+2024-12-05 09:57:07,342 - INFO - Proveedor creado: Proveedor A - 123-456-789
+2024-12-05 09:57:07,349 - INFO - Proveedor creado: Proveedor B - 987-654-321
+2024-12-05 09:57:07,349 - INFO - Proveedor 'Proveedor A' actualizado a la dirección '77865330A'.
+2024-12-05 09:57:07,359 - INFO - Proveedor 'Proveedor B' eliminado.
+2024-12-05 09:57:07,367 - INFO - Herramienta creada: Martillo - Manual
+2024-12-05 09:57:07,375 - INFO - Herramienta creada: Taladro - Eléctrico
+2024-12-05 09:57:07,376 - INFO - Herramienta 'Martillo' actualizada al tipo 'Reforzado'.
+2024-12-05 09:57:07,385 - INFO - Herramienta 'Taladro' eliminada.
+2024-12-05 09:57:07,385 - INFO - Herramientas asociadas al proveedor Proveedor A:
+2024-12-05 09:57:07,385 - INFO - Nombre: Martillo, Tipo: Reforzado
+2024-12-05 09:57:07,386 - INFO - Conexión cerrada.

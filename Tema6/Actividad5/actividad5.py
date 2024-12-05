@@ -13,6 +13,7 @@ logging.basicConfig(
     ]
 )
 
+
 class Coche(Persistent):
     """Clase que representa un coche."""
     def __init__(self, modelo, marca, anio, color, tipo):
@@ -92,6 +93,7 @@ class DatabaseManagerObject:
             self.root["coches"][id] = Coche(modelo, marca, anio, color, tipo)
             logging.info(f"Coche con ID {id} creado exitosamente.")
         except Exception as e:
+            self.revertir_transaccion()
             logging.error(f"Error al crear el coche con ID {id}: {e}")
 
     def leer_coches(self):
@@ -130,6 +132,7 @@ class DatabaseManagerObject:
             del self.root["coches"][id]
             logging.info(f"Coche con ID {id} eliminado exitosamente.")
         except Exception as e:
+            self.revertir_transaccion()
             logging.error(f"Error al eliminar el coche con ID {id}: {e}")
 
 # Ejemplo de uso
