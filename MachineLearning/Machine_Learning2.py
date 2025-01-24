@@ -1,4 +1,5 @@
 import pandas as pd
+from sklearn.model_selection import train_test_split
 
 # ---------APARTADO 1-----------
 print("---------APARTADO 1-----------\n")
@@ -56,15 +57,19 @@ print(
 # ---------APARTADO 4-----------
 print("\n---------APARTADO 4-----------\n")
 
-x=df[["pts","draft_number","age"]]
-y=df["Pts_Partido"]
-
-x=pd.get_dummies(x,columns=["draft_number"],drop_first=True)
+x=df[["usg_pct","age"]]
+y=df["pts"]  
+print(x.head())
+print(y.head())
 
 
 # ---------APARTADO 5-----------
 print("\n---------APARTADO 5-----------\n")
-
+x_train, x_test, y_train, y_test = train_test_split(x, y, test_size=0.2, random_state=42)
+print(x_train.head())
+print(x_test.head())
+print(y_train.head())
+print(y_test.head())
 
 # ---------APARTADO 6-----------
 print("\n---------APARTADO 6-----------\n")
