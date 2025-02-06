@@ -1,0 +1,29 @@
+2025-02-05 12:40:51,143 - INFO - Transacción iniciada.
+2025-02-05 12:40:51,143 - INFO - Dato agregado: {'destino': 'Cancun', 'duracion': '10', 'tipo_viaje': 'medico', 'precio': '700', 'fecha_salida': '20-01-2023'}
+2025-02-05 12:40:51,143 - INFO - Dato agregado: {'destino': 'Barcelona', 'duracion': '3', 'tipo_viaje': 'turismo', 'precio': '70', 'fecha_salida': '23-05-2024'}
+2025-02-05 12:40:51,143 - INFO - Dato agregado: {'destino': 'Zaragoza', 'duracion': '6', 'tipo_viaje': 'negocios', 'precio': '35', 'fecha_salida': '15-11-2020'}
+2025-02-05 12:40:51,143 - INFO - Transacción confirmada y cambios guardados.
+2025-02-05 12:40:51,143 - INFO - Configuración actualizada. Nueva ruta del archivo: actividad1.csv
+2025-02-05 12:40:51,143 - INFO - Transacción iniciada.
+2025-02-05 12:40:51,143 - INFO - Archivo CSV guardado. Versión actual: 3
+2025-02-05 12:40:51,143 - INFO - Transacción confirmada y cambios guardados.
+2025-02-05 12:41:05,445 - INFO - Archivo JSON cargado con éxito. Versión actual: 1
+2025-02-05 12:41:05,446 - INFO - Transacción iniciada.
+2025-02-05 12:41:05,446 - INFO - Dato agregado: {'destino': 'Cancun', 'duracion': '10', 'tipo_viaje': 'medico', 'precio': '700', 'fecha_salida': '20-01-2023'}
+2025-02-05 12:41:05,446 - INFO - Dato agregado: {'destino': 'Barcelona', 'duracion': '3', 'tipo_viaje': 'turismo', 'precio': '70', 'fecha_salida': '23-05-2024'}
+2025-02-05 12:41:05,446 - INFO - Dato agregado: {'destino': 'Zaragoza', 'duracion': '6', 'tipo_viaje': 'negocios', 'precio': '35', 'fecha_salida': '15-11-2020'}
+2025-02-05 12:41:05,446 - INFO - Transacción confirmada y cambios guardados.
+2025-02-05 12:41:05,446 - INFO - Configuración actualizada. Nueva ruta del archivo: actividad1.csv
+2025-02-05 12:41:05,446 - INFO - Transacción iniciada.
+2025-02-05 12:41:05,446 - INFO - Archivo CSV guardado. Versión actual: 3
+2025-02-05 12:41:05,446 - INFO - Transacción confirmada y cambios guardados.
+2025-02-05 12:45:17,155 - INFO - Archivo JSON cargado con éxito. Versión actual: 1
+2025-02-05 12:45:17,155 - INFO - Transacción iniciada.
+2025-02-05 12:45:17,155 - INFO - Dato agregado: {'destino': 'Cancun', 'duracion': '10', 'tipo_viaje': 'medico', 'precio': '700', 'fecha_salida': '20-01-2023'}
+2025-02-05 12:45:17,155 - INFO - Dato agregado: {'destino': 'Barcelona', 'duracion': '3', 'tipo_viaje': 'turismo', 'precio': '70', 'fecha_salida': '23-05-2024'}
+2025-02-05 12:45:17,155 - INFO - Dato agregado: {'destino': 'Zaragoza', 'duracion': '6', 'tipo_viaje': 'negocios', 'precio': '35', 'fecha_salida': '15-11-2020'}
+2025-02-05 12:45:17,155 - INFO - Transacción confirmada y cambios guardados.
+2025-02-05 12:45:17,155 - INFO - Configuración actualizada. Nueva ruta del archivo: actividad1.csv
+2025-02-05 12:45:17,155 - INFO - Transacción iniciada.
+2025-02-05 12:45:17,155 - INFO - Archivo CSV guardado. Versión actual: 3
+2025-02-05 12:45:17,155 - INFO - Transacción confirmada y cambios guardados.

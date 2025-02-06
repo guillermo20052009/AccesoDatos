@@ -1,0 +1,31 @@
+2025-02-05 12:42:04,000 - INFO - Conectado a MongoDB: 1dam.viajes
+2025-02-05 12:42:04,000 - INFO - Transacción iniciada.
+2025-02-05 12:42:04,103 - INFO - Documento insertado con ID: 67a34e8cfd1f7d8afe16d67b
+2025-02-05 12:42:04,104 - INFO - Documento insertado con ID: 67a34e8cfd1f7d8afe16d67c
+2025-02-05 12:42:04,105 - INFO - Transacción confirmada.
+2025-02-05 12:42:04,106 - INFO - Documentos recuperados: 2
+2025-02-05 12:42:04,107 - INFO - {'_id': ObjectId('67a34e8cfd1f7d8afe16d67b'), 'destino': 'Granada', 'duracion': 4, 'tipo_viaje': 'Turismo', 'precio': 250, 'fecha_salida': '2024-12-20'}
+2025-02-05 12:42:04,107 - INFO - {'_id': ObjectId('67a34e8cfd1f7d8afe16d67c'), 'destino': 'Bogotá', 'duracion': 10, 'tipo_viaje': 'Negocios', 'precio': 1900, 'fecha_salida': '2018-11-25'}
+2025-02-05 12:42:04,107 - INFO - Transacción iniciada.
+2025-02-05 12:42:04,109 - INFO - Documento actualizado: {'destino': 'Granada'}
+2025-02-05 12:42:04,109 - INFO - Transacción confirmada.
+2025-02-05 12:42:04,109 - INFO - Transacción iniciada.
+2025-02-05 12:42:04,110 - INFO - Documento eliminado: {'destino': 'Bogotá'}
+2025-02-05 12:42:04,111 - INFO - Transacción confirmada.
+2025-02-05 12:42:04,112 - INFO - Conexión a MongoDB cerrada.
+2025-02-06 08:19:55,533 - INFO - Conectado a MongoDB: 1dam.viajes
+2025-02-06 08:19:55,533 - INFO - Transacción iniciada.
+2025-02-06 08:19:55,537 - INFO - Documento insertado con ID: 67a4629b377bbc067fa02410
+2025-02-06 08:19:55,537 - INFO - Documento insertado con ID: 67a4629b377bbc067fa02411
+2025-02-06 08:19:55,537 - INFO - Transacción confirmada.
+2025-02-06 08:19:55,537 - INFO - Documentos recuperados: 3
+2025-02-06 08:19:55,537 - INFO - {'_id': ObjectId('67a34e8cfd1f7d8afe16d67b'), 'destino': 'Granada', 'duracion': 3, 'tipo_viaje': 'Turismo', 'precio': 250, 'fecha_salida': '2024-12-20'}
+2025-02-06 08:19:55,537 - INFO - {'_id': ObjectId('67a4629b377bbc067fa02410'), 'destino': 'Granada', 'duracion': 4, 'tipo_viaje': 'Turismo', 'precio': 250, 'fecha_salida': '2024-12-20'}
+2025-02-06 08:19:55,537 - INFO - {'_id': ObjectId('67a4629b377bbc067fa02411'), 'destino': 'Bogotá', 'duracion': 10, 'tipo_viaje': 'Negocios', 'precio': 1900, 'fecha_salida': '2018-11-25'}
+2025-02-06 08:19:55,538 - INFO - Transacción iniciada.
+2025-02-06 08:19:55,538 - WARNING - No se encontró documento para actualizar: {'destino': 'Granada'}
+2025-02-06 08:19:55,538 - INFO - Transacción confirmada.
+2025-02-06 08:19:55,538 - INFO - Transacción iniciada.
+2025-02-06 08:19:55,538 - INFO - Documento eliminado: {'destino': 'Bogotá'}
+2025-02-06 08:19:55,538 - INFO - Transacción confirmada.
+2025-02-06 08:19:55,538 - INFO - Conexión a MongoDB cerrada.

@@ -1,0 +1,28 @@
+2025-02-05 12:42:07,429 - INFO - Conexión establecida con ZODB.
+2025-02-05 12:42:07,430 - INFO - Transacción iniciada.
+2025-02-05 12:42:07,430 - INFO - Viaje con ID 1 creado exitosamente.
+2025-02-05 12:42:07,430 - INFO - Viaje con ID 2 creado exitosamente.
+2025-02-05 12:42:07,430 - INFO - Viaje con ID 3 creado exitosamente.
+2025-02-05 12:42:07,431 - INFO - Transacción confirmada.
+2025-02-05 12:42:07,431 - INFO - ID: 1, Destino: Helsinki, Duración: 10, Tipo de Viaje: Negocios, Precio: 200, Fecha de Salida: 2023-10-19
+2025-02-05 12:42:07,431 - INFO - ID: 2, Destino: Bilbao, Duración: 2, Tipo de Viaje: Turismo, Precio: 30, Fecha de Salida: 2020-02-20
+2025-02-05 12:42:07,431 - INFO - ID: 3, Destino: Roterdam, Duración: 16, Tipo de Viaje: Negocios, Precio: 2000, Fecha de Salida: 2019-12-01
+2025-02-05 12:42:07,432 - INFO - Transacción iniciada.
+2025-02-05 12:42:07,432 - ERROR - Error al crear el viaje con ID 1: Ya existe un viaje con ID 1.
+2025-02-05 12:42:07,432 - INFO - Transacción confirmada.
+2025-02-05 12:42:07,433 - INFO - ID: 1, Destino: Helsinki, Duración: 10, Tipo de Viaje: Negocios, Precio: 200, Fecha de Salida: 2023-10-19
+2025-02-05 12:42:07,433 - INFO - ID: 2, Destino: Bilbao, Duración: 2, Tipo de Viaje: Turismo, Precio: 30, Fecha de Salida: 2020-02-20
+2025-02-05 12:42:07,433 - INFO - ID: 3, Destino: Roterdam, Duración: 16, Tipo de Viaje: Negocios, Precio: 2000, Fecha de Salida: 2019-12-01
+2025-02-05 12:42:07,433 - INFO - Transacción iniciada.
+2025-02-05 12:42:07,433 - INFO - Viaje con ID 2 actualizado exitosamente.
+2025-02-05 12:42:07,433 - INFO - Transacción confirmada.
+2025-02-05 12:42:07,434 - INFO - ID: 1, Destino: Helsinki, Duración: 10, Tipo de Viaje: Negocios, Precio: 200, Fecha de Salida: 2023-10-19
+2025-02-05 12:42:07,434 - INFO - ID: 2, Destino: Bilbao, Duración: 4, Tipo de Viaje: Negocios, Precio: 100, Fecha de Salida: 2024-01-01
+2025-02-05 12:42:07,434 - INFO - ID: 3, Destino: Roterdam, Duración: 16, Tipo de Viaje: Negocios, Precio: 2000, Fecha de Salida: 2019-12-01
+2025-02-05 12:42:07,434 - INFO - Transacción iniciada.
+2025-02-05 12:42:07,434 - ERROR - Error al eliminar el viaje con ID 99: No existe un viaje con ID 99.
+2025-02-05 12:42:07,434 - INFO - Transacción confirmada.
+2025-02-05 12:42:07,434 - INFO - ID: 1, Destino: Helsinki, Duración: 10, Tipo de Viaje: Negocios, Precio: 200, Fecha de Salida: 2023-10-19
+2025-02-05 12:42:07,434 - INFO - ID: 2, Destino: Bilbao, Duración: 4, Tipo de Viaje: Negocios, Precio: 100, Fecha de Salida: 2024-01-01
+2025-02-05 12:42:07,434 - INFO - ID: 3, Destino: Roterdam, Duración: 16, Tipo de Viaje: Negocios, Precio: 2000, Fecha de Salida: 2019-12-01
+2025-02-05 12:42:07,434 - INFO - Conexión a ZODB cerrada.
