@@ -6,9 +6,9 @@ print("---------Grafico de lineas: Tendencia temporal-----------\n")
 # Lectura del CSV
 df = pd.read_csv("all_seasons.csv")
 
-puntos = df.groupby("usg_pct")["pts"].mean()
+puntos = df.groupby("season")["ast"].max()
 
-puntos.plot(title="Tendencia de puntos por temporada", xlabel="Temporada", ylabel="Puntos", color="red", figsize=(10, 25))
+puntos.plot(title="Tendencia de máximo de asistencias por temporada", xlabel="Temporada", ylabel="Asistencias", color="red", figsize=(10, 25))
 plt.show()
 # ---------Grafico de dispersión: Rebotes defensivos vs ofensivos-----------
 print("---------Grafico de dispersión: Rebotes defensivos vs ofensivos-----------\n")
@@ -28,8 +28,8 @@ plt.show()
 print("---------Histograma: Distribución de asistencias-----------\n")
 
 df["ast"].plot(kind="hist", bins=30, color="purple", figsize=(10, 6))
-plt.title("Distribución de puntos")
-plt.xlabel("Puntos")
+plt.title("Distribución de asistencias")
+plt.xlabel("Asistencias")
 plt.ylabel("Frecuencia")
 plt.show()
 
